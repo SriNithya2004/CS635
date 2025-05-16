@@ -2,23 +2,24 @@
 
 ## 📘 Course Assignments Repository
 
-This repository contains our assignment submissions for CS 635 at IIT Bombay.
+This repository contains our assignment submissions and course materials for CS 635 at IIT Bombay.
 
 ### 👥 Team Members
 - **Hriswitha Ijada** (210050068)
-- **Sri Nithya Soupati** (210050152)  
+- **Sri Nithya Soupati** (210050152)
 
 ---
 
 ### 📁 Contents
 
-- **CS635_PA1.pdf, CS635_PA2.pdf, CS635_PA3.pdf** – Assignment problem statements  
-- **Assignment_X_Report.pdf** – Final reports for Assignments 1, 2, and 3  
-- **210050068_210050152_AXcs635.zip** – Code submissions for all assignments (X=1,2,3)
-- **Test.pdf / other files** – Supporting files used during development and testing
+- **2024.2A.CS635.zip** – Lecture content and slides  
+- **CS635_PAX.pdf** – Assignment problem statements (PA1, PA2, PA3)  
+- **Assignment_X_Report.pdf** – Reports for Assignments 1, 2, and 3  
+- **Code Submissions** – Source code for all assignments  
+- **Other Files** – Supporting files used during development and testing
 
 ---
 
-### 📝 Notes
+### 📝 Note
 
-All work was completed as part of the CS 635 course at IIT Bombay (Spring 2025).
+All work in this repository was completed as part of the CS 635 course at IIT Bombay (Spring 2025).
