@@ -5,8 +5,8 @@
 This repository contains our assignment submissions for CS 635 at IIT Bombay.
 
 ### 👥 Team Members
-- **Sri Nithya Soupati** (210050152)  
 - **Hriswitha Ijada** (210050068)
+- **Sri Nithya Soupati** (210050152)  
 
 ---
 
